@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    marky_markov (0.3.5)
+      msgpack
+    msgpack (0.6.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  marky_markov
+
+BUNDLED WITH
+   1.10.6
